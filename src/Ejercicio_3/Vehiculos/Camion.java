@@ -1,10 +1,10 @@
-package Ejercicio_3;
+package Ejercicio_3.Vehiculos;
 
 import Ejercicio_3.AccionesVehiculos.Cargamento;
 import Ejercicio_3.AccionesVehiculos.Conduccion;
 import Ejercicio_3.Mercancia.Producto;
 
-public class Camion extends  Vehiculo implements Conduccion, Cargamento {
+public class Camion extends Vehiculo implements Conduccion, Cargamento {
     private int capacidadCarga;
 
 

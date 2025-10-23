@@ -8,14 +8,8 @@ import Ejercicio_1.TallerMantenimientos.ServicioLimpieza;
 import Ejercicio_1.TallerMantenimientos.ServicioMecanica;
 import Ejercicio_1.Vehiculos.Coche;
 import Ejercicio_1.Vehiculos.Vehiculo;
-import Ejercicio_2.CuentaCredito;
-import Ejercicio_2.CuentaDebito;
-import Ejercicio_2.LogisticaBancario.Mensajes;
-import Ejercicio_2.LogisticaBancario.OperacionesInternas;
-import Ejercicio_2.LogisticaBancario.Validacion;
-import Ejercicio_2.Usuario;
-import Ejercicio_3.Camion;
-import Ejercicio_3.Carro;
+import Ejercicio_3.Vehiculos.Camion;
+import Ejercicio_3.Vehiculos.Carro;
 import Ejercicio_3.Mercancia.Producto;
 
 public class Main {
@@ -103,7 +97,7 @@ public class Main {
 
 
         //Ejercicio 3,Gestion de Vehiculos (Hmmmm.... OK)
-        
+
 
         Producto mercancia = new Producto("Tocinetas","T004","77028838828",2000,4);
         Camion camion1 = new Camion("Ford",50,"Blanco","20/56/2015",1500);

@@ -1,4 +1,4 @@
-package Ejercicio_3;
+package Ejercicio_3.Vehiculos;
 
 public abstract class Vehiculo {
 

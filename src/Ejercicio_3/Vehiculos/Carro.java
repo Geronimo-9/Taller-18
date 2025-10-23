@@ -1,4 +1,4 @@
-package Ejercicio_3;
+package Ejercicio_3.Vehiculos;
 
 import Ejercicio_3.AccionesVehiculos.Conduccion;
 
